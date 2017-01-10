@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is a simple way for me to explore Ruby on Rails using a nice little
+Ubuntu Ruby on Rails on 14.04 (Postgres, Nginx, Unicorn) D.O. Droplet
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I'm checking it into git for the time being even though I have no idea what it
+will wind up being. We'll see!
